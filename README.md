@@ -1,2 +1,6 @@
-# submod-square
-A submodule repository for a submodule test setup
+# submod-red
+A super-repository for a submodule setup.
+
+This repository uses these submodules:
+
+* lower-letters

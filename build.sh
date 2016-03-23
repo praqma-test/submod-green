@@ -1,3 +1,3 @@
 #!/bin/bash
-rm output.txt
+rm -f output.txt
 cat lower-letters/text.txt >> output.txt

@@ -1,5 +1,5 @@
-# submod-red
-A super-repository for a submodule setup.
+# submod-green
+A superproject for a submodule setup.
 
 This repository uses these submodules:
 
